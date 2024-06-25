@@ -1,12 +1,14 @@
 ---
 date: '2023-07-05'
-title: 'Employer Branding Intern'
-company: 'ABFRL'
+title: 'Fellowship'
+company: 'NXT WAVE'
 location: 'Remote'
-range: 'July - September 2023'
+range: 'June 2023 - June 2024'
 url: 'https://abfrl.com/'
 ---
 
-- Amplified the STRIDES program value, aiding potential recruits in understanding career growth opportunities
-- Developed strategic Campus Engagement deliverables for leadership talks as part of the Young Talent Management (YTM) team
-- Enhanced recruitment by 37% by promoting the STRIDE program & leading campus initiatives on LinkedIn
+- Successfully completed a comprehensive training program focused on the MERN stack, gaining expertise in full-stack web development.
+- Developed and deployed several real-time projects, demonstrating proficiency in creating dynamic, responsive web applications.
+- Acquired hands-on experience in building RESTful APIs, managing databases, and implementing front-end interfaces.
+- Collaborated with peers on various team projects, enhancing skills in version control (Git) and project management.
+- Engaged in continuous learning and problem-solving, applying best practices and agile methodologies to ensure code quality and project efficiency.

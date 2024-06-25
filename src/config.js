@@ -1,26 +1,22 @@
 module.exports = {
-  email: 'chandrikadeb7@gmail.com',
+  email: 'praveengandikota80@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://www.linkedin.com/in/praveen-gandikota',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      url: 'https://www.instagram.com/praveen_gandikota_',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://x.com/pra67108210?t=ZSdysq88ajvVq-xHcXZr2A&s=09',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: 'https://github.com/PraveenGandikota',
     },
   ],
 

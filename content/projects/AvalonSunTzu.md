@@ -1,15 +1,16 @@
 ---
 date: '2023-08-01'
-title: 'Avalon Consulting: Sun Tzu Case Study 2023'
-github: ''
-external: 'https://docs.google.com/presentation/d/1gpdKIeqhw4rpUXoTCgbmC8WMSSU-B2uOYhLG_6__wOs/edit?usp=sharing'
+title: 'Meme Generator'
+github: 'https://github.com/PraveenGandikota/Meme-Generator.git'
+external: 'https://praveenmemegen.ccbp.tech'
 tech:
-  - Consulting
-  - Issue Tree
-  - CPVC/UPVC Industry
-  - Market Entry
+  - React JS
+  - Routing
+  - REST API Calls
+  - CSS
+  - Bootstrap
 company: 'Case Competition'
 showInProjects: true
 ---
 
-Can a hypothetical company Prime Corporation enter the CPVC/UPVC market succesfully?
+Developed an interactive Meme Generator application that allows users to create custom memes by adding text to images.

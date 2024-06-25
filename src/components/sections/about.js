@@ -125,8 +125,8 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Market Research', 'Data Analysis', 'Brand Management', 'Digital Marketing', 
-  'SPSS', 'Tableau', 'MS Office', 'Python'];
+  const skills = ['Coding', 'Cricket', 'Web Development', 'Chess', 
+  'Problem Solving', 'Cycling', 'Mentoring', 'Puzzles'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,29 +136,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            With a core specialization in Marketing &amp; Strategy, I've orchestrated impactful
-             strategies in brand perceptions during my MBA summer internship for {' '}
-             <a href="https://www.tatastructura.com">Tata Structura</a> {' '} at{' '} 
-             <a href="https://drive.google.com/file/d/1xhGTFz7pe6kP7bZ4peDgJ7hlG630K8rz/view?usp=sharing">Tata Steel</a>.
-            </p>
+            I'm a dedicated web developer specializing in the MERN stack, based in vibrant Hitechcity, Hyderabad. My journey into coding began during my college days, where I immersed myself in honing my programming skills. With a passion for innovation and a relentless pursuit of excellence, I've crafted numerous impactful projects from inception to deployment.
 
-            <p>
-            I also spearheaded employer branding initiatives for {' '}
-            <a href="https://drive.google.com/file/d/1w-uN9jb86pxFXPYMDu_78P-d1CZJAx3V/view?usp=sharing">
-              Aditya Birla Fashion and Retail</a>, {' '} resulting in a remarkable 37% surge in consumer engagement 
-              during my remote live project as part of my MBA journey.
-            </p>
+            Driven by creativity and fueled by a strong work ethic, I thrive on tackling challenges in dynamic web applications and data analysis. My portfolio showcases my commitment to delivering robust solutions that leave a lasting impact.
 
-            <p>
-            During my tenure at {' '} <a href="https://www.amdocs.com">Amdocs</a>, {' '} 
-            where I served as a Software Developer, I had the honor of being selected as one of 16 elite {' '} 
-            <a href="https://drive.google.com/file/d/16BGu5InZZDGCtoWas560ezwKsgVBKbI9/view?usp=sharing">Innovation Agents</a>.
-            </p>
-
-            <p>
-            Moreover, my role as a {' '} <a href="https://drive.google.com/file/d/1iRTZfE7v5Y99BYZVxevaGBVtF90t-TOb/view?usp=sharing">
-              Placement Coordinator</a> {' '} at IIM Rohtak saw me cultivate over 30 new corporate relationships, culminating in a 
-              remarkable 42% boost in campus placements.
             </p>
 
             <p>My skills are not limited to this list!</p>

@@ -1,14 +1,17 @@
 ---
 date: '2023-08-20'
-title: 'Tata Steel: Steel-a-thon 2023 (Business Track)'
-github: ''
-external: 'https://docs.google.com/presentation/d/1BoHWWokNWOHcMYUhMUO4taLX_-Plec2bfrswio2Wa2A/edit?usp=sharing'
+title: 'Layout Builder'
+github: 'https://github.com/PraveenGandikota/Layout-Builder.git'
+external: 'https://praveenlaybuild.ccbp.tech'
 tech:
-  - Strategy
-  - Marketing
-  - Sustainability
+  - React.js
+  - HTML
+  - CSS
+  - Node.js
+  - Express.js
 company: 'Case Competition'
 showInProjects: true
 ---
 
-Determining Brand Positioning for new Tata Tiscon Rebar through Electric Arc Furnace (EAF) route or Green Steel
+The Layout Builder is a web-based application designed to facilitate the creation of dynamic layouts and user interfaces. 
+- It leverages modern web technologies to provide an intuitive and interactive platform for users to design, customize, and manage their layouts efficiently.

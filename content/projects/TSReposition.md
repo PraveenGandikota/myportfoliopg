@@ -1,15 +1,15 @@
 ---
 date: '2023-11-20'
-title: 'Repositioning of Tata Structura in Retail'
-github: ''
-external: 'https://docs.google.com/presentation/d/1JjfyBadKZe2tgKaYhVG4DMDqIAtVOFSaxZpkZAkbGfk/edit?usp=sharing'
+title: 'Alert Notifications'
+github: 'https://github.com/PraveenGandikota/Alert-Notifications.git'
+external: 'https://pravenalertnoti.ccbp.tech'
 tech:
-  - Brand Repositioning
-  - Brand Elements
-  - Content Marketing
+  - HTML
+  - CSS
+  - JavaScript
+  - React.js
 company: 'Project'
 showInProjects: true
 ---
 
-How to reposition hollow structural tubes brand in retail using its brand elements, content marketing, and several online/offline touchpoints
-
+Developed a web console application that likely includes functionalities for dynamic content updates and interactive user interfaces.

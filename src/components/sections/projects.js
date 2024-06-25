@@ -265,10 +265,10 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>Projects | Case Comps | Certifications</h2>
+      <h2 ref={revealTitle}>Other Significant Projects | Highlighted Projects</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
-        View Archive
+      View a List of Projects along with Their Codes
       </Link>
 
       <ul className="projects-grid">

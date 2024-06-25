@@ -1,14 +1,17 @@
 ---
-date: '2022-06-12'
-title: 'Six Sigma: Green Belt'
-github: ''
-external: 'https://drive.google.com/file/d/16brJRCuvKbyYp7MZgq7TMlWWO5X5BTQ9/view?usp=sharing'
+date: '2023-06-12'
+title: 'Gradient Generator'
+github: 'https://github.com/PraveenGandikota/Gradient-Generator.git'
+external: 'https://praveengradgen.ccbp.tech'
 tech:
-  - DMAIC
-  - TQM
-  - Process Improvement
+  - React JS
+  - Routing
+  - REST API Calls
+  - CSS
+  - Bootstrap
 company: 'Certification'
 showInProjects: true
 ---
 
-Understood the fundamentals of Six Sigma along with project implementations
+The Gradient Generator is an intuitive web application designed to help users create and visualize color gradients seamlessly. 
+- It features a user-friendly interface where users can select and adjust colors to generate gradients that can be used in various design projects.

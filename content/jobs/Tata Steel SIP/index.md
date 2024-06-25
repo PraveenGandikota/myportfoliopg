@@ -1,13 +1,16 @@
 ---
 date: '2023-04-17'
-title: 'Sales & Marketing Intern'
-company: 'Tata Steel'
-location: 'Kolkata, India'
-range: 'April - June 2023'
-url: 'https://tatasteel.com/'
+title: 'Design Engineer'
+company: 'SunviENG'
+location: 'Hyderabad, India'
+range: 'October 2022 - October 2023'
+url: 'http://sunvieng.com/'
 ---
 
-- Conducted a gap analysis of end consumers’ brand perceptions on Tata Structura in Kolkata and its nearby regions
-- Devised retail brand re-positioning strategy using 30+ dealers and 80+ end consumer insights gathered
-- Led re-branding efforts with logo and tagline revamp, bolstered by YouTube ads and positive consumer stories
-- Bagged a Pre-Placement Offer (PPO) among the top talents due to exceptional performance during the internship stint
+- As a Design Engineer, I excelled in researching and evaluating zoning and engineering criteria, utilizing  AutoCAD proficiently for drafting and revising plans.
+- I adeptly coordinated drawing production and managed modifications for telecom towers and foundations. 
+- My contributions included developing a CAD library for enhanced design efficiency.
+- With a keen eye for detail, I prioritized work queues and streamlined
+resource allocation to ensure optimal project outcomes.
+- View [OFFER LETTER](https://drive.google.com/file/d/1OpAKSv5QWQMe_k3ZWXzGnbtxeTM2MX3w/view?usp=drivesdk)
+

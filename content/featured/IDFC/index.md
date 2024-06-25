@@ -1,16 +1,23 @@
 ---
 date: '2'
-title: 'iIFA: Integrated IDFC First Assistant'
+title: 'Nxt Trendz'
 cover: './idfc.png'
-external: 'https://docs.google.com/presentation/d/1VBxFohznvvVg8Kxf5CPwx2UAgbv2ReTx6vzcp8A7u70/edit?usp=sharing'
+github: 'https://github.com/PraveenGandikota/Nxt-Trendz.git'
+external: 'https://praveennxtrends.ccbp.tech/'
 tech:
-  - Review Scraping
-  - User Persona
-  - Figma
-  - GTM
-  - RICE
+  - ReactJS, 
+  - JS,
+  - CSS, 
+  - Bootstrap,
+  - Routing,
+  - REST API Calls,
+  - Local Storage,
+  - JWT Token,
+  - Authorization, 
+  - Authentication
 ---
 
-Banking Application Enhancement for increased engagement time/customer for **IDFC FAME Product Track** Bschool Case Competition
-
-Proposed enhanced chatbot, unique spending options beneficial for users, and geolocation based cashbacks and coupons reward store prompts
+Created a modern e-commerce experience with a design inspired by Amazon and Flipkart.
+- Implemented pages for Login, Products, and Product details with React Router, React components, and
+form inputs.
+- Secured user data with JWT tokens, REST API calls, and local storage

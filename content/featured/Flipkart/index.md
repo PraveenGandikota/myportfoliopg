@@ -1,15 +1,18 @@
 ---
 date: '3'
-title: 'MYOB: Make Your Own Basket'
+title: 'Todos Applications'
 cover: './flipkart.png'
-external: 'https://docs.google.com/presentation/d/1ELoytkCyrR6PysGE34kiz_b6PXTBmbf_SWKGwSu9SeE/edit?usp=sharing'
-cta: 'https://chandrikadeb7.gumroad.com/l/mbaSlides?layout=profile'
+external: 'https://praveengtodos.ccbp.tech/'
+cta: 'https://praveengtodos.ccbp.tech/'
 tech:
-  - Research
-  - SPSS
-  - Clustering
-  - Financial Implication
+  - HTML
+  - CSS
+  - JS
+  - Bootstrap
 ---
-
-Personalizing Flipkart India Employee Rewards with varied short-term and long-term incentives aligned with their age, career stage, personality traits, etc. for optimal engagement as part of **Flipkart WiRED 7.0 HR Track** Bschool Case Competition
-
+Developed persistent todo application with **CRUD Operations** to track list of tasks
+- Displayed list of todos with HTML list elements, styled todo list using CSS, Bootstrap
+- Implemented todo crud operations by using JavaScript event listeners and updated UI dynamically by
+using JavaScript DOM operations.
+- Used Arrays, Objects and their methods during todolist CRUD Operations, Persisted todo list state on
+page reloads using local storage methods

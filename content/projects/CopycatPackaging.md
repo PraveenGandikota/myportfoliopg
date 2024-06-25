@@ -1,14 +1,17 @@
 ---
 date: '2024-02-01'
-title: 'Copycat Packaging in Consumer Products'
-github: ''
-external: 'https://docs.google.com/presentation/d/1BhfDchTWfW0CFPsikQ2Ur_45HVbObBT5HPnSpcTXzAU/edit?usp=sharing'
+title: 'Github Popular Repos'
+github: 'https://github.com/PraveenGandikota/Github-Popular-Repos.git'
+external: 'https://praveengitrepo.ccbp.tech'
 tech:
-  - Marketing Ethics
-  - FMCG
-  - Brand Identity
+  - React JS
+  - Routing
+  - REST API Calls
+  - CSS
+  - Bootstrap
 company: 'Project'
 showInProjects: true
 ---
 
-Why do companies, even big brands like Tata Skye indulge in Copycat Packaging? A deep dive.
+Developed a web application where user can see popular github repos and can be filtered through a selected
+programming language
